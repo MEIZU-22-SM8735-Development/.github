@@ -36,7 +36,7 @@ STAGES = [
         ("P1-10", "LPDDR5X Memory Map", D, None),
         ("P1-11", "UFS 4.0", None, [("Controller", D), ("PHY", D), ("Low Power", D)]),
         ("P1-12", "USB Gadget / xHCI", D, None),
-        ("P1-13", "GENI I2C Buses", U, None),
+        ("P1-13", "GENI I2C Buses", D, None),
     ]),
     ("P2", "CPU · DVFS · Thermal", [
         ("P2-01", "SMP 8-Core Boot", D, None),
