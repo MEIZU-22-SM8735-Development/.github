@@ -1,4 +1,4 @@
-# Meizu 22 · Mainline Linux
+# MEIZU 22 · Mainline Linux
 
 **MEIZU 22 (M2582) / Qualcomm SM8735 · Linux 7.2**
 
